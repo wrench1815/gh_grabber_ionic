@@ -1,0 +1,6 @@
+{
+  "appId": "app.gh.grabber",
+  "appName": "GH Grabber",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh_grabber_android",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
